@@ -20,7 +20,7 @@
     "zombie": "^5.0.5",
     "helmet": "^3.1.0",
     "shortid": "^2.2.15",
-    "bcrypt": "^4.0.1"
+    "bcrypt": "^5.0.0"
   },
   "engines": {
     "node": "4.4.3"
